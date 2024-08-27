@@ -1,1 +1,1 @@
-const elemento = document.querySelector("teste");
+const caixaPrincipal = document.querySelector{"caixa-perguntas"}
